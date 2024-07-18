@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/emewebsite/static/css/main.f855e6bc.css",
+    "main.js": "/emewebsite/static/js/main.5633c974.js",
+    "static/js/453.eba27443.chunk.js": "/emewebsite/static/js/453.eba27443.chunk.js",
+    "static/media/logo.svg": "/emewebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/emewebsite/index.html",
+    "main.f855e6bc.css.map": "/emewebsite/static/css/main.f855e6bc.css.map",
+    "main.5633c974.js.map": "/emewebsite/static/js/main.5633c974.js.map",
+    "453.eba27443.chunk.js.map": "/emewebsite/static/js/453.eba27443.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.5633c974.js"
+  ]
+}
